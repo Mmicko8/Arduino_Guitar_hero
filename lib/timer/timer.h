@@ -1,0 +1,1 @@
+void initTimer0_FPWM_1024PS();

@@ -1,0 +1,15 @@
+void delay_ms(int);
+void delay_us(int);
+void enableLed(int);
+void enableLeds(uint8_t);
+void enableAllLeds();
+void disableLed(int);
+void lightUpLed(int);
+void lightUpLeds (uint8_t);
+void lightUpAllLeds ();
+void lightDownLed(int);
+void lightDownLeds (uint8_t);
+void lightDownAllLeds();
+void dimLed(int, int, int);
+void fadeInLed(int, int);
+void fadeOutLed(int, int);
